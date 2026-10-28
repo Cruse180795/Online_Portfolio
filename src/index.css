@@ -4,25 +4,25 @@
     --font-chakra-petch: "Chakra Petch";
     --font-jetbrains-mono: "Jetbrains Mono";
 
-    --color-neutral-100: hsl(21, 77%, 95);
-    --color-neutral-200: hsl(120, 3%, 77);
-    --color-neutral-500: hsl(196, 18%, 35);
-    --color-neutral-600: hsl(196, 18%, 25);
-    --color-neutral-800: hsl(197, 100%, 7);
-    --color-neutral-900: hsl(197, 100%, 6);
+    --color-neutral-100: hsl(21, 77%, 95%);
+    --color-neutral-200: hsl(120, 3%, 77%);
+    --color-neutral-500: hsl(196, 18%, 35%);
+    --color-neutral-600: hsl(196, 18%, 25%);
+    --color-neutral-800: hsl(197, 100%, 7%);
+    --color-neutral-900: hsl(197, 100%, 6%);
 
-    --color-green-200: hsl(78, 100%, 70);
+    --color-green-200: hsl(78, 100%, 70%);
 
-    --color-yellow-100: hsl(38, 100%, 86);
+    --color-yellow-100: hsl(38, 100%, 86%);
 
-    --color-red-100: hsl(6, 97%, 88);
-    --color-red-300: hsl(0, 100%, 75);
+    --color-red-100: hsl(6, 97%, 88%);
+    --color-red-300: hsl(0, 100%, 75%);
 
-    --color-cyan-100: hsl(196, 92%, 85);
+    --color-cyan-100: hsl(196, 92%, 85%);
 
-    --color-purple-100: hsl(248, 93%, 88);
+    --color-purple-100: hsl(248, 93%, 88%);
 
-    --color-blue-100: hsl(214, 100%, 87);
+    --color-blue-100: hsl(214, 100%, 87%);
 
     --radius-4: 0.25rem;
     --radius-6: 0.375rem;
