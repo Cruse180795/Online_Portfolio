@@ -22,7 +22,7 @@ export default function Footer() {
         </div>
 
         {/* Footer nav + Socials + location wrapper */}
-        <div className="flex flex-col gap-y-10 md:flex-row md:items-start lg:gap-x-20">
+        <div className="flex flex-col gap-y-10 md:flex-row md:items-start md:gap-x-20">
           <FooterNavigation />
           <FooterSocials />
           <FooterLocation />
